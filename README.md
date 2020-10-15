@@ -8,3 +8,4 @@ You can drag project and hover it over Finished table. If you do so, the project
 Inputs are validated.
 
 The idea behind this project was to explore TypeScript features. 
+It uses Types, Interfaces, Generics and Decorators.
